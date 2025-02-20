@@ -21,20 +21,21 @@ Installation
 
 1. Clone this repository:
     bash
+    https://github.com/B-6219/Space_dodge.git
     
     
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
     bash
     cd space-dodge
     
 
-3. Install required dependencies:
+4. Install required dependencies:
     - Install Pygame:
       bash
       pip install pygame
       
-4. Run the game:
+5. Run the game:
     bash
     python index.py
     
@@ -44,7 +45,7 @@ Installation
 Game Controls
 
 - Arrow Keys: Move the player left and right.
-- - Avoid the falling stars to keep your game going!
+- Avoid the falling stars to keep your game going!
 
 ---
 
